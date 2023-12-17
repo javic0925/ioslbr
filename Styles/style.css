@@ -310,6 +310,7 @@ nav ul li a img {
   border-radius: 7rem;
   background-color: #D1BBFC;
   z-index: 4;
+  opacity: 0;
   display: flex;
   justify-content: center;
   align-items: center;
